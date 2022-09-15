@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on as a trainee at Intelligencia.fr as a Data Scientist
+- 🌱 I’m currently learning ...
+  - Microsoft Azure Services
+  - Cosmos DB
+  - Real-time Pipelines
+  - 
