@@ -3,7 +3,7 @@
 ## I am currently training at Intelligencia.fr as Data Science Trainee, and completing my Master's Degree in Data Science and Risk Management.
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anissa-al-amin-46b8021b3r#gh-light-mode-only)
+[![website](img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg")](https://www.linkedin.com/in/anissa-al-amin-46b8021b3r#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anissa-al-amin-46b8021b3r#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/anissa.alaminr#gh-light-mode-only)
