@@ -1,6 +1,6 @@
-### Hi there, I am Anissa Al Amin 👋
+## Hi there, I am Anissa Al Amin 👋
 
-## I am currently training at Intelligencia.fr as Data Science Trainee, and completing my Master's Degree in Data Science and Risk Management.
+#### I am currently training at Intelligencia.fr as Data Science Trainee, and completing my Master's Degree in Data Science and Risk Management.
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anissa-al-amin-46b8021b3r#gh-light-mode-only)
@@ -35,6 +35,8 @@
 <img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
 
 
+<br />
+<br />
 <br />
 
 🔭 I’m currently working on as a trainee at Intelligencia.fr as a Data Scientist
