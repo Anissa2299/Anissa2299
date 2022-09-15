@@ -3,11 +3,10 @@
 #### I am currently training at Intelligencia.fr as Data Science Trainee, and completing my Master's Degree in Data Science and Risk Management.
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anissa-al-amin-46b8021b3r#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anissa-al-amin-46b8021b3r#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/anissa.alaminr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/anissa.alamin#gh-dark-mode-only)
+
+<a href="https://www.linkedin.com/in/anissa-al-amin-46b8021b3" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hussein b. fawaz" height="30" width="30" /></a>
+<a href="https://instagram.com/anissa.alamin" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="hbfawaz112" height="30" width="30" /></a>
+<a href="https://wa.me/96176371016" target="_blank"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="hbfawaz112" height="30" width="30" /></a>
 
 
 <br />
