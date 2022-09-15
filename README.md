@@ -42,13 +42,9 @@
 🔭 I’m currently working on as a trainee at Intelligencia.fr as a Data Scientist
 <br />
 - 🌱 I’m currently learning
-<br />
   - Microsoft Azure Services
- <br />
   - Cosmos DB
- <br />
   - Real-time Pipelines
- <br />
  - ETL
  <br />
  <br />
