@@ -32,12 +32,16 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
+
 <br />
 
 - 🔭 I’m currently working on as a trainee at Intelligencia.fr as a Data Scientist
 <br />
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 <br />
   - Microsoft Azure Services
+ <br />
   - Cosmos DB
+ <br />
   - Real-time Pipelines
+ <br />
