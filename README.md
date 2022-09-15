@@ -45,6 +45,6 @@
   - Microsoft Azure Services
   - Cosmos DB
   - Real-time Pipelines
- - ETL
+  - ETL
  <br />
  <br />
